@@ -1,3 +1,6 @@
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![R](https://img.shields.io/badge/language-R-blue.svg)
+
 # Precision Agriculture Adoption and Corn Yields in the United States
 
 ## Overview
