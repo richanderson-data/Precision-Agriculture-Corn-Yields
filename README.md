@@ -24,19 +24,15 @@ All analysis was conducted in R.
 Results suggest an association between precision agriculture adoption and corn yields at the regional level. Findings are presented descriptively and statistically in the accompanying paper.
 
 ## Repository Structure
+```text
 precision-agriculture-corn-yields/
-
-├─ data/ # Raw and processed datasets
-
-├─ analysis/ # R scripts used for analysis
-
-├─ Report/ # Final written report (PDF)
-
+├─ data/        # Raw and processed datasets
+├─ analysis/     # R scripts used for analysis
+├─ report/       # Final written report (PDF)
 ├─ README.md
-
 ├─ LICENSE
-
 └─ .gitignore
+
 
 ## Limitations
 - Ecological (region-level) analysis
