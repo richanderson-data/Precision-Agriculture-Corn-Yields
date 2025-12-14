@@ -26,14 +26,13 @@ Results suggest an association between precision agriculture adoption and corn y
 ## Repository Structure
 ```text
 precision-agriculture-corn-yields/
-├─ data/        # Raw and processed datasets
-├─ analysis/     # R scripts used for analysis
-├─ report/       # Final written report (PDF)
+├─ Data/        # Raw and processed datasets
+├─ Analysis/     # R scripts used for analysis
+├─ Report/       # Final written report (PDF)
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
-
-
+```
 ## Limitations
 - Ecological (region-level) analysis
 - Limited control variables due to data availability
