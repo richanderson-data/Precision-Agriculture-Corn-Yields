@@ -1,7 +1,7 @@
 # Precision Agriculture Adoption and Corn Yields in the United States
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Language: R](https://img.shields.io/badge/Language-R-blue.svg)
-![Data: FRED](https://img.shields.io/badge/Data-FRED-lightgrey.svg)
+
 ## Overview
 This project analyzes the relationship between precision agriculture adoption and corn yields across U.S. regions using publicly available government data.
 
