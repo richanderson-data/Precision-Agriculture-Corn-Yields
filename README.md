@@ -72,9 +72,8 @@ Data were compiled from U.S. government agricultural reports and infographics an
 
 All analysis was conducted in R.
 
-```md
+
 ## Repository Structure
-```text
 precision-agriculture-corn-yields/
 ├─ Analysis/
 │  └─ PrecisionAGCornYields.R
