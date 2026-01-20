@@ -74,6 +74,7 @@ All analysis was conducted in R.
 
 
 ## Repository Structure
+```
 precision-agriculture-corn-yields/
 ├─ Analysis/
 │  └─ PrecisionAGCornYields.R
@@ -87,6 +88,7 @@ precision-agriculture-corn-yields/
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
+```
 
 ## Notes & Limitations
 - Ecological (county-level) analysis; results are associative, not causal.
